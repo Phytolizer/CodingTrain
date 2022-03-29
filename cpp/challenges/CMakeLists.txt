@@ -17,3 +17,4 @@ function(coding_challenge)
 endfunction()
 
 add_subdirectory("c001_starfield")
+add_subdirectory("c003_snake")
